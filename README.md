@@ -8,6 +8,17 @@ This Script is a rework of the Original esx_sit Script which had a lot of Bugs. 
 - Copy the Folder into your ressources/ folder
 - Add `ensure sitdown` to your server.cfg
 - Press the `F` Key to take a Seat
+- 
+## Other Scripts
+
+- [erp_antifalldown](https://github.com/EgoPvP/erp_antifalldown) - Stop your Player from falling into the dark void.
+- [erp_towscript](https://github.com/EgoPvP/erp_towscript) - Highly Customisable and top working Vehicle Towing Script for FiveM
+- [sitdown](https://github.com/EgoPvP/sitdown) - Sitting made easy!
+- [SaltyNUI](https://github.com/EgoPvP/SaltyNUI) - Discourage Users without Temspeak running when using SaltyChat!
+
+## Support
+
+Discord - https://discord.gg/6jsHUVMh8G
 
 ## Donate
 If you like my work, you can Support me by donating to me
@@ -18,10 +29,6 @@ ETH - 0x411BFd32d22F2D04A40C2edFE8f5fb8E9Dc80412 <br>
 ZEC - t1XyjYpkBZpvTSD41toPWdzmr2UTq3KKHRT <br>
 DASH - Xs9YwqZbyaNHWJcDF1Tgn1jQJqd8XHzLyh <br>
 LTC - LMsnx3kVYAtKXJoERq51PZ367wihVmjxns <br>
-
-## Support
-
-Discord - https://discord.gg/6jsHUVMh8G
 
 ## License
 
