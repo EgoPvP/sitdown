@@ -29,6 +29,7 @@ ETH - 0x411BFd32d22F2D04A40C2edFE8f5fb8E9Dc80412 <br>
 ZEC - t1XyjYpkBZpvTSD41toPWdzmr2UTq3KKHRT <br>
 DASH - Xs9YwqZbyaNHWJcDF1Tgn1jQJqd8XHzLyh <br>
 LTC - LMsnx3kVYAtKXJoERq51PZ367wihVmjxns <br>
+DOGE - DHemyecWnQ55uwnRGzhVmoqwPSY1zA32Gs <br>
 
 ## License
 
