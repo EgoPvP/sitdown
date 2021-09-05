@@ -35,7 +35,7 @@ DOGE - DHemyecWnQ55uwnRGzhVmoqwPSY1zA32Gs <br>
 
 ## Script store
 
-If you are looking for more Scripts, check out our Custom Script Store:
+If you are looking for more Scripts, check out our Custom Script Store: <br>
 [shop.egorp.net](https://shop.egorp.net/)
 
 ## License
