@@ -18,7 +18,7 @@ This Script is a rework of the Original esx_sit Script which had a lot of Bugs. 
 
 ## Support
 
-Discord - https://discord.gg/6jsHUVMh8G
+Discord - https://discord.gg/qRc5Hbb
 
 ## Donate
 If you like my work, you can Support me!
