@@ -21,9 +21,11 @@ es_extended - pre 1.1 final
 - [sitdown](https://github.com/EgoPvP/sitdown) - Sitting made easy!
 - [SaltyNUI](https://github.com/EgoPvP/SaltyNUI) - Discourage Users without Temspeak running when using SaltyChat!
 
-# WE NO LONGER OFFER TICKET SUPPORT FOR THIS SCRIPT AS IT HAS DEEPENDENCIES WHICH MIGHT NOT BE AVAILABLE ANYMOREE AND IS VERY OLD.
 
 ## Support
+
+
+### WE NO LONGER OFFER TICKET SUPPORT FOR THIS SCRIPT AS IT HAS DEEPENDENCIES WHICH MIGHT NOT BE AVAILABLE ANYMOREE AND IS VERY OLD.
 
 Discord - https://discord.gg/qRc5Hbb
 
