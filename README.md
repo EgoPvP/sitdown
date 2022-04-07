@@ -3,18 +3,25 @@ Sitting made easy!
 
 This Script is a rework of the Original esx_sit Script which had a lot of Bugs. Many Alignment & animation bugs are fixxed with this version and you can now sit whereever you want on a  Bench, Chair or Couch.
 
+
 ## How to Install?
 - Download the latest Release of sitdown
 - Copy the Folder into your ressources/ folder
 - Add `ensure sitdown` to your server.cfg
 - Press the `F` Key to take a Seat
-- 
+
+
+## Dependencies
+es_extended - pre 1.1 final
+
 ## Other Scripts
 
 - [erp_antifalldown](https://github.com/EgoPvP/erp_antifalldown) - Stop your Player from falling into the dark void.
 - [erp_towscript](https://github.com/EgoPvP/erp_towscript) - Highly Customisable and top working Vehicle Towing Script for FiveM
 - [sitdown](https://github.com/EgoPvP/sitdown) - Sitting made easy!
 - [SaltyNUI](https://github.com/EgoPvP/SaltyNUI) - Discourage Users without Temspeak running when using SaltyChat!
+
+# WE NO LONGER OFFER TICKET SUPPORT FOR THIS SCRIPT AS IT HAS DEEPENDENCIES WHICH MIGHT NOT BE AVAILABLE ANYMOREE AND IS VERY OLD.
 
 ## Support
 
