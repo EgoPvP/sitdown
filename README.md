@@ -15,11 +15,20 @@ This Script is a rework of the Original esx_sit Script which had a lot of Bugs. 
 es_extended - pre 1.1 final
 
 ## Other Scripts
+We now offer Custom Script creations at our Store: [CLICK ME](https://shop.egorp.net/category/custom-development)
+
+- [SaltyNUI](https://shop.egorp.net/package/4668315) - Discourage Users without Temspeak running when using SaltyChat!
+- [erp_saltycircle](https://shop.egorp.net/package/4668429) - A basic Circle, visualizing your current voice range when using Saltychat
+
+- [erp_weaponrange](https://shop.egorp.net/package/5167273) - Have people do some shooting excersise before gaining the Weapons License.
+- [erp_towscript](https://shop.egorp.net/package/4668418) - Highly Customisable and top working Vehicle Towing Script for FiveM
 
 - [erp_antifalldown](https://github.com/EgoPvP/erp_antifalldown) - Stop your Player from falling into the dark void.
-- [erp_towscript](https://github.com/EgoPvP/erp_towscript) - Highly Customisable and top working Vehicle Towing Script for FiveM
-- [sitdown](https://github.com/EgoPvP/sitdown) - Sitting made easy!
-- [SaltyNUI](https://github.com/EgoPvP/SaltyNUI) - Discourage Users without Temspeak running when using SaltyChat!
+- [erp_antiwhipping](https://github.com/EgoPvP/erp_antiwhipping) - Stop Players from hitting others when standing close.
+
+- [erp_racing](https://shop.egorp.net/package/4666867) - Battle your Friends in epic 1 vs 1 races across LosSantos!
+
+- [sitdown](https://shop.egorp.net/package/4668426) - Sitting made easy!
 
 
 ## Support
@@ -28,24 +37,6 @@ es_extended - pre 1.1 final
 ### WE NO LONGER OFFER TICKET SUPPORT FOR THIS SCRIPT AS IT HAS DEEPENDENCIES WHICH MIGHT NOT BE AVAILABLE ANYMOREE AND IS VERY OLD.
 
 Discord - https://discord.gg/qRc5Hbb
-
-## Donate
-If you like my work, you can Support me!
-
-[Tebex (Paypal & co.)](https://shop.egorp.net/package/4667135)
-
-BTC - bc1qn5d5hvecydfcr7xd65z2nun7a8t6wvgc9yuuxr <br>
-WBTC - 0x411BFd32d22F2D04A40C2edFE8f5fb8E9Dc80412 <br>
-ETH - 0x411BFd32d22F2D04A40C2edFE8f5fb8E9Dc80412 <br>
-ZEC - t1XyjYpkBZpvTSD41toPWdzmr2UTq3KKHRT <br>
-DASH - Xs9YwqZbyaNHWJcDF1Tgn1jQJqd8XHzLyh <br>
-LTC - LMsnx3kVYAtKXJoERq51PZ367wihVmjxns <br>
-DOGE - DHemyecWnQ55uwnRGzhVmoqwPSY1zA32Gs <br>
-
-## Script store
-
-If you are looking for more Scripts, check out our Custom Script Store: <br>
-[shop.egorp.net](https://shop.egorp.net/)
 
 ## License
 
