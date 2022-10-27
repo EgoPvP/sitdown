@@ -12,7 +12,7 @@ This Script is a rework of the Original esx_sit Script which had a lot of Bugs. 
 
 
 ## Dependencies
-es_extended - pre 1.1 final
+es_extended - pre 1.1 final -> **IMPORTANT**
 
 ## Other Scripts
 We now offer Custom Script creations at our Store: [CLICK ME](https://shop.egorp.net/category/custom-development)
